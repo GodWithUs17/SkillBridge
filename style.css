@@ -59,7 +59,7 @@ body {
        background-size: cover;
        background-position: center;
        background-repeat: no-repeat;
-       height: fit-content;
+       height: 100vh;
        box-sizing: border-box;
    }
 
