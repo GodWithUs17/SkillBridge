@@ -786,6 +786,9 @@ img {
 }
 
 @media (max-width: 900px) {
+  .hero{
+    height: fit-content;
+  }
   h1, #hero-text {
     font-size: 2rem;
   }
